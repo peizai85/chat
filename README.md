@@ -1,1 +1,61 @@
-# chat
+{
+    "code": 20000,
+    "msg": "操作成功",
+    "data": {
+        "pageSize": 0,
+        "current": 0,
+        "total": 4,
+        "list": [
+            {
+                "shopNo": "SHOP01",//店铺编号
+                "shopId": 1302963201,//店铺ID
+                "shopName": "1号数码港",
+                "nickname": "CIBERPUERTO 1",
+                "registrationDate": "2023-02-04T23:28:41.000+00:00",
+                "firstName": "WENDIXILAN SHOP",
+                "lastName": "WENDIXILAN SHOP",
+                "gender": "",
+                "countryId": "MX",
+                "email": "jireassazyijhol@gmail.com",
+                "identificationNumber": "WSH221216152",
+                "identificationType": "RFC",
+                "address": "República del Salvador 39",
+                "city": "Cuauhtémoc",
+                "state": "MX-DIF",
+                "zipCode": "06060",
+                "phoneAreaCode": null,
+                "phoneAreaExtension": "",
+                "phoneNumber": "8187047895",
+                "phoneVerified": 0,
+                "alternativePhoneAreaCode": "",
+                "alternativePhoneExtension": "",
+                "alternativePhoneNumber": "8443448146",
+                "logo": null,
+                "points": 27,
+                "tags": "[normal, mshops, messages_as_seller, eshop]",
+                "userType": "normal",
+                "siteId": "MLM",
+                "permalink": "http://perfil.mercadolibre.com.mx/CIBERPUERTO+1",
+                "sellerExperience": "ADVANCED",
+                "secureEmail": "ehdcabf.1302963201@mail.mercadolibre.com.mx",
+                "companyBrandName": "WENDIXILAN SHOP",
+                "companyCityTaxId": "",
+                "companyCorporateName": "WENDIXILAN SHOP",
+                "companyIdentification": "WSH221216152",
+                "companyStateTaxId": "",
+                "companyCustTypeId": "BU",
+                "companySoftDescriptor": "",
+                "creditConsumed": 3697,
+                "creditCreditLevelId": "MLM1",
+                "creditRank": "payer",
+                "contextDevice": "desktop",
+                "contextFlow": "normal-v3",
+                "contextIpAddress": "140.84.183.184",
+                "contextSource": "mercadolibre-company",
+                "createdAt": "2023-07-25T13:58:39.000+00:00",
+                "updatedAt": "2023-11-15T11:31:34.000+00:00"
+            },
+        ]
+    },
+    "timestamp": 1700049625890
+}
